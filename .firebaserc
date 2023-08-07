@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "mrchedda-658a5": {
+      "hosting": {
+        "firebase": [
+          "mrchedda-658a5"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "mrchedda-658a5"
+  }
+}
